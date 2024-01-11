@@ -1,0 +1,18 @@
+app:
+  name: comm-inv-POC
+  version: 0.0.1
+  environment: local
+tsm:
+  host: "172.19.208.122"
+  port: 1559
+  database: "INVUAT"
+  username: "invappc2"
+  password: "inv#123"
+  interval: 500000
+commercetools:
+  api: https://api.eu-central-1.aws.commercetools.com
+  import: https://import.eu-central-1.aws.commercetools.com
+  auth: https://auth.eu-central-1.aws.commercetools.com
+  projectKey: commerce-solution
+  clientId: el9qaMH8sNXRvmUGf87Dxdx0
+  clientSecret: lshF3YCx9XH7oiGW9FgFrrmYZU1FSNTO
