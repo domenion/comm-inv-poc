@@ -2,7 +2,7 @@ package main
 
 import (
 	"comm-inv-poc/src/internal/configs"
-	"comm-inv-poc/src/internal/core/manager"
+	"comm-inv-poc/src/internal/manager"
 	"flag"
 	"log"
 )

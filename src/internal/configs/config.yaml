@@ -14,5 +14,5 @@ commercetools:
   import: https://import.eu-central-1.aws.commercetools.com
   auth: https://auth.eu-central-1.aws.commercetools.com
   projectKey: commerce-solution
-  clientId: SkuVbO7X237GgraBRwpt1BF6
-  clientSecret: 7R1o6Nl9gSJ_Aw5URaYxeAXMMPxpqSNO
+  clientId: el9qaMH8sNXRvmUGf87Dxdx0
+  clientSecret: lshF3YCx9XH7oiGW9FgFrrmYZU1FSNTO
