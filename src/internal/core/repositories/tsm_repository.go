@@ -2,7 +2,7 @@ package repositories
 
 import (
 	"comm-inv-poc/src/internal/configs"
-	"comm-inv-poc/src/internal/entities"
+	"comm-inv-poc/src/internal/core/entities"
 	"context"
 	"database/sql/driver"
 	"time"

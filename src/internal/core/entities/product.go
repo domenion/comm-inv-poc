@@ -1,7 +1,7 @@
 package entities
 
 import (
-	"comm-inv-poc/src/internal/models"
+	"comm-inv-poc/src/internal/core/models"
 	"fmt"
 )
 

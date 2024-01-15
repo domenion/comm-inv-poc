@@ -2,7 +2,7 @@ package services
 
 import (
 	"comm-inv-poc/src/internal/configs"
-	"comm-inv-poc/src/internal/models"
+	"comm-inv-poc/src/internal/core/models"
 	"encoding/base64"
 	"encoding/json"
 	"fmt"

@@ -1,9 +1,9 @@
 package manager
 
 import (
-	"comm-inv-poc/src/internal/models"
-	"comm-inv-poc/src/internal/repositories"
-	"comm-inv-poc/src/internal/services"
+	"comm-inv-poc/src/internal/core/models"
+	"comm-inv-poc/src/internal/core/repositories"
+	"comm-inv-poc/src/internal/core/services"
 	"fmt"
 	"log"
 	"time"

@@ -1,7 +1,7 @@
 package services
 
 import (
-	"comm-inv-poc/src/internal/models"
+	"comm-inv-poc/src/internal/core/models"
 	"testing"
 )
 
