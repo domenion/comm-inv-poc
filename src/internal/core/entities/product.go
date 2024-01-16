@@ -30,7 +30,7 @@ func (t *Product) ToUpdateInventoryRequest(ver int64) *models.UpdateInventoryReq
 		Quantity: int64(t.QTY),
 	}
 	return &models.UpdateInventoryRequest{
-		Version: ver + 1,
+		Version: ver,
 		Actions: []interface{}{changeQ},
 	}
 }
